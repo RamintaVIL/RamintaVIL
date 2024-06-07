@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raminta :)
+- 👋 Hi, I’m Raminta 🍀
 - 🌱 I’m currently learning basics of HTML, CSS.
 
 
